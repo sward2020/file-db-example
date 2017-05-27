@@ -1,0 +1,39 @@
+code,code_description 
+AE,ACCEL PIN-Based Debit 
+AF,AFFN PIN-Based Debit 
+AK,Alaska PIN-Based Debit 
+AP,ACCEL PINless Debit 
+AX,American Express 
+BL,Bill Me Later 
+BP,Bill Me Later Private Label 
+CR,Chase Signature Debit 
+CU,CU24 PIN-Based Debit 
+CX,Chase PIN-Based Debit (future enhancement) 
+CZ,Chase Credit 
+DD,Discover Diners 
+DI,Discover 
+DP,Generic PINless Debit 
+EC,Electronic Check (non encrypted and encrypted accounts) 
+ED,European Direct Debit 
+EN,Encryption 
+ID,Interac 
+IL,Interlink PIN-Based Debit 
+IM,International Maestro 
+JC,JCB 
+JN,Jeanie PIN-Based Debit 
+MC,MasterCard 
+MP,MoneyPak 
+MR,MasterCard Restricted Debit (future enhancement) 
+MT,Maestro PIN-Based Debit 
+NP,NYCE PINless Debit 
+NY,NYCE PIN-Based Debit 
+PP,Pulse PINless Debit 
+PS,Pulse PIN-Based Debit 
+PY,PayPal 
+SP,Star PINless Debit 
+SR,Star PIN-Based Debit 
+SV,Gift Card 
+SW,UK Domestic Maestro 
+SZ,Shazam PIN-Based Debit 
+VI,Visa 
+VR,Visa Debit (Used for processing ñCanadian Restricted Debitî transactions) 

@@ -1,0 +1,8 @@
+<changeSet id="20130710-add-MopCodeRef-reference-data" author="Jennifer" >
+        <preConditions onFail="MARK_RAN">
+            <sqlCheck expectedResult="0">SELECT COUNT(*) FROM MopCodeRef</sqlCheck>
+        </preConditions>
+        <loadData
+            file="migrations/reference-data/MopCodeRef.csv"
+            tableName="MopCodeRef"/>
+</changeSet>
