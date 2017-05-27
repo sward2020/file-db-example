@@ -1,0 +1,14 @@
+
+
+###############################################################################
+#    DataSource - Local
+###############################################################################
+spring.datasource:
+  url: jdbc:postgresql://localhost:5432/postgres
+  username: postgres
+  password: postgres
+  driver-class-name: org.postgresql.Driver
+
+#LIQUIBASE
+liquibase:
+  change-log: classpath:/liquibase-changelog.xml
